@@ -1,0 +1,14 @@
+/home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ClassInteritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ClassInteritance.AssemblyInfoInputs.cache
+/home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ClassInteritance.AssemblyInfo.cs
+/home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ClassInteritance.csproj.CoreCompileInputs.cache
+/home/walter/Documents/c sharp/ClassInteritance/bin/Debug/net8.0/ClassInteritance
+/home/walter/Documents/c sharp/ClassInteritance/bin/Debug/net8.0/ClassInteritance.deps.json
+/home/walter/Documents/c sharp/ClassInteritance/bin/Debug/net8.0/ClassInteritance.runtimeconfig.json
+/home/walter/Documents/c sharp/ClassInteritance/bin/Debug/net8.0/ClassInteritance.dll
+/home/walter/Documents/c sharp/ClassInteritance/bin/Debug/net8.0/ClassInteritance.pdb
+/home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ClassInteritance.dll
+/home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/refint/ClassInteritance.dll
+/home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ClassInteritance.pdb
+/home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ClassInteritance.genruntimeconfig.cache
+/home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ref/ClassInteritance.dll

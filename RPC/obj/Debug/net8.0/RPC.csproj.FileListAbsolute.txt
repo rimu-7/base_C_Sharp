@@ -1,0 +1,14 @@
+/home/walter/Documents/c sharp/RPC/bin/Debug/net8.0/RPC
+/home/walter/Documents/c sharp/RPC/bin/Debug/net8.0/RPC.deps.json
+/home/walter/Documents/c sharp/RPC/bin/Debug/net8.0/RPC.runtimeconfig.json
+/home/walter/Documents/c sharp/RPC/bin/Debug/net8.0/RPC.dll
+/home/walter/Documents/c sharp/RPC/bin/Debug/net8.0/RPC.pdb
+/home/walter/Documents/c sharp/RPC/obj/Debug/net8.0/RPC.GeneratedMSBuildEditorConfig.editorconfig
+/home/walter/Documents/c sharp/RPC/obj/Debug/net8.0/RPC.AssemblyInfoInputs.cache
+/home/walter/Documents/c sharp/RPC/obj/Debug/net8.0/RPC.AssemblyInfo.cs
+/home/walter/Documents/c sharp/RPC/obj/Debug/net8.0/RPC.csproj.CoreCompileInputs.cache
+/home/walter/Documents/c sharp/RPC/obj/Debug/net8.0/RPC.dll
+/home/walter/Documents/c sharp/RPC/obj/Debug/net8.0/refint/RPC.dll
+/home/walter/Documents/c sharp/RPC/obj/Debug/net8.0/RPC.pdb
+/home/walter/Documents/c sharp/RPC/obj/Debug/net8.0/RPC.genruntimeconfig.cache
+/home/walter/Documents/c sharp/RPC/obj/Debug/net8.0/ref/RPC.dll

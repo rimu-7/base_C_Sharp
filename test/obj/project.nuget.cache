@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8kCl1ddXoKI=",
+  "success": true,
+  "projectFilePath": "/home/walter/Documents/c sharp/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/walter/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.11/microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "/home/walter/.nuget/packages/microsoft.net.illink.tasks/8.0.11/microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "/home/walter/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.11/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

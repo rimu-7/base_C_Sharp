@@ -1,0 +1,14 @@
+/home/walter/Documents/c sharp/DesignPatterns/bin/Debug/net8.0/DesignPatterns
+/home/walter/Documents/c sharp/DesignPatterns/bin/Debug/net8.0/DesignPatterns.deps.json
+/home/walter/Documents/c sharp/DesignPatterns/bin/Debug/net8.0/DesignPatterns.runtimeconfig.json
+/home/walter/Documents/c sharp/DesignPatterns/bin/Debug/net8.0/DesignPatterns.dll
+/home/walter/Documents/c sharp/DesignPatterns/bin/Debug/net8.0/DesignPatterns.pdb
+/home/walter/Documents/c sharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/walter/Documents/c sharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfoInputs.cache
+/home/walter/Documents/c sharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfo.cs
+/home/walter/Documents/c sharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/home/walter/Documents/c sharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.dll
+/home/walter/Documents/c sharp/DesignPatterns/obj/Debug/net8.0/refint/DesignPatterns.dll
+/home/walter/Documents/c sharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.pdb
+/home/walter/Documents/c sharp/DesignPatterns/obj/Debug/net8.0/DesignPatterns.genruntimeconfig.cache
+/home/walter/Documents/c sharp/DesignPatterns/obj/Debug/net8.0/ref/DesignPatterns.dll
