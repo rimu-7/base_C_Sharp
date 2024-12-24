@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmailSenders/1.0.0": {
+        "runtime": {
+          "EmailSenders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailSenders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

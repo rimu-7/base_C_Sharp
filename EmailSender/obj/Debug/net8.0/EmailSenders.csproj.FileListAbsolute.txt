@@ -1,0 +1,15 @@
+/home/walter/Documents/c sharp/EmailSender/bin/Debug/net8.0/EmailSenders
+/home/walter/Documents/c sharp/EmailSender/bin/Debug/net8.0/EmailSenders.deps.json
+/home/walter/Documents/c sharp/EmailSender/bin/Debug/net8.0/EmailSenders.runtimeconfig.json
+/home/walter/Documents/c sharp/EmailSender/bin/Debug/net8.0/EmailSenders.dll
+/home/walter/Documents/c sharp/EmailSender/bin/Debug/net8.0/EmailSenders.pdb
+/home/walter/Documents/c sharp/EmailSender/obj/Debug/net8.0/EmailSenders.GeneratedMSBuildEditorConfig.editorconfig
+/home/walter/Documents/c sharp/EmailSender/obj/Debug/net8.0/EmailSenders.AssemblyInfoInputs.cache
+/home/walter/Documents/c sharp/EmailSender/obj/Debug/net8.0/EmailSenders.AssemblyInfo.cs
+/home/walter/Documents/c sharp/EmailSender/obj/Debug/net8.0/EmailSenders.csproj.CoreCompileInputs.cache
+/home/walter/Documents/c sharp/EmailSender/obj/Debug/net8.0/EmailSenders.sourcelink.json
+/home/walter/Documents/c sharp/EmailSender/obj/Debug/net8.0/EmailSenders.dll
+/home/walter/Documents/c sharp/EmailSender/obj/Debug/net8.0/refint/EmailSenders.dll
+/home/walter/Documents/c sharp/EmailSender/obj/Debug/net8.0/EmailSenders.pdb
+/home/walter/Documents/c sharp/EmailSender/obj/Debug/net8.0/EmailSenders.genruntimeconfig.cache
+/home/walter/Documents/c sharp/EmailSender/obj/Debug/net8.0/ref/EmailSenders.dll

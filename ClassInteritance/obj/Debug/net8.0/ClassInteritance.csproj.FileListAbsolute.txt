@@ -12,3 +12,4 @@
 /home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ClassInteritance.pdb
 /home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ClassInteritance.genruntimeconfig.cache
 /home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ref/ClassInteritance.dll
+/home/walter/Documents/c sharp/ClassInteritance/obj/Debug/net8.0/ClassInteritance.sourcelink.json
