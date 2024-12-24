@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/walter/Documents/c sharp/DesignPatterns/DesignPatterns.csproj",
+      "projectUniqueName": "/home/walter/Documents/base_C_Sharp/DesignPatterns/DesignPatterns.csproj",
       "projectName": "DesignPatterns",
-      "projectPath": "/home/walter/Documents/c sharp/DesignPatterns/DesignPatterns.csproj",
+      "projectPath": "/home/walter/Documents/base_C_Sharp/DesignPatterns/DesignPatterns.csproj",
       "packagesPath": "/home/walter/.nuget/packages/",
-      "outputPath": "/home/walter/Documents/c sharp/DesignPatterns/obj/",
+      "outputPath": "/home/walter/Documents/base_C_Sharp/DesignPatterns/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/walter/.nuget/NuGet/NuGet.Config"

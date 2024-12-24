@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8kCl1ddXoKI=",
+  "dgSpecHash": "IYP6S/dByzM=",
   "success": true,
-  "projectFilePath": "/home/walter/Documents/c sharp/test/test.csproj",
+  "projectFilePath": "/home/walter/Documents/base_C_Sharp/test/test.csproj",
   "expectedPackageFiles": [
     "/home/walter/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.11/microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
     "/home/walter/.nuget/packages/microsoft.net.illink.tasks/8.0.11/microsoft.net.illink.tasks.8.0.11.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/walter/Documents/c sharp/ClassInteritance/ClassInteritance.csproj",
+      "projectUniqueName": "/home/walter/Documents/base_C_Sharp/ClassInteritance/ClassInteritance.csproj",
       "projectName": "ClassInteritance",
-      "projectPath": "/home/walter/Documents/c sharp/ClassInteritance/ClassInteritance.csproj",
+      "projectPath": "/home/walter/Documents/base_C_Sharp/ClassInteritance/ClassInteritance.csproj",
       "packagesPath": "/home/walter/.nuget/packages/",
-      "outputPath": "/home/walter/Documents/c sharp/ClassInteritance/obj/",
+      "outputPath": "/home/walter/Documents/base_C_Sharp/ClassInteritance/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/walter/.nuget/NuGet/NuGet.Config"
