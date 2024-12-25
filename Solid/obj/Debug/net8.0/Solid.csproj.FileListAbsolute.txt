@@ -1,0 +1,15 @@
+/home/walter/Documents/base_C_Sharp/Solid/bin/Debug/net8.0/Solid
+/home/walter/Documents/base_C_Sharp/Solid/bin/Debug/net8.0/Solid.deps.json
+/home/walter/Documents/base_C_Sharp/Solid/bin/Debug/net8.0/Solid.runtimeconfig.json
+/home/walter/Documents/base_C_Sharp/Solid/bin/Debug/net8.0/Solid.dll
+/home/walter/Documents/base_C_Sharp/Solid/bin/Debug/net8.0/Solid.pdb
+/home/walter/Documents/base_C_Sharp/Solid/obj/Debug/net8.0/Solid.GeneratedMSBuildEditorConfig.editorconfig
+/home/walter/Documents/base_C_Sharp/Solid/obj/Debug/net8.0/Solid.AssemblyInfoInputs.cache
+/home/walter/Documents/base_C_Sharp/Solid/obj/Debug/net8.0/Solid.AssemblyInfo.cs
+/home/walter/Documents/base_C_Sharp/Solid/obj/Debug/net8.0/Solid.csproj.CoreCompileInputs.cache
+/home/walter/Documents/base_C_Sharp/Solid/obj/Debug/net8.0/Solid.sourcelink.json
+/home/walter/Documents/base_C_Sharp/Solid/obj/Debug/net8.0/Solid.dll
+/home/walter/Documents/base_C_Sharp/Solid/obj/Debug/net8.0/refint/Solid.dll
+/home/walter/Documents/base_C_Sharp/Solid/obj/Debug/net8.0/Solid.pdb
+/home/walter/Documents/base_C_Sharp/Solid/obj/Debug/net8.0/Solid.genruntimeconfig.cache
+/home/walter/Documents/base_C_Sharp/Solid/obj/Debug/net8.0/ref/Solid.dll
